@@ -21,11 +21,15 @@ the complete architecture and history, and `BUILD-PLAN.md` for where the
 build currently stands — this file covers the CLI and the five packages
 behind it.
 
+## Credits
+
+Submitted by Team 14 at Tenori Hack. The router, the CLI and the five packages were built by Kevin Andrew. The dashboard frontend lives in a teammate's repository, [hackerjose25/kevin_frontend](https://github.com/hackerjose25/kevin_frontend), and a few commits in this history are from teammates.
+
 ## Quick start
 
 ```bash
-git clone <this-repo>
-cd Tenori_Hack
+git clone https://github.com/Andrew-Kevin-007/quorum.git
+cd quorum
 npm install
 npm link          # puts a global `quorum` command on your PATH
 ```
