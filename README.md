@@ -23,7 +23,7 @@ behind it.
 
 ## Credits
 
-Submitted by Team 14 at Tenori Hack. The router, the CLI and the five packages were built by Kevin Andrew. The dashboard frontend lives in a teammate's repository, [hackerjose25/kevin_frontend](https://github.com/hackerjose25/kevin_frontend), and a few commits in this history are from teammates.
+Submitted by Team 14 at Tenori Hack. The router, the CLI and the five packages were built by Kevin Andrew, with a few commits in this history from teammates.
 
 ## Quick start
 
